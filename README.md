@@ -1,12 +1,18 @@
-### Aoba! 👋
+<h1>Oi! 👋</h1>
 
-- 🔭 Atualmente estou criando [Bots, utilizando Node JS e afins](https://github.com/Alonses/Alonsal)
-- 🌱 Também estou na faculdade de Análise e Desenvolvimento de Sistemas pelo IFSP!
+- 🔭 Escultor de sistemas Javascript e PHP, crio [bots](https://github.com/Alonses/Alonsal), [sites](https://github.com/odnols/inventario-mine), [api's](https://github.com/Alonses/Apisal) e o que vier pela frente!
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas pelo IFSP!
+- 🐛 Criador de bugs e codificador enceirado desde 2001 
+- 🎶 Preso nas músicas dos 80's
 
- 
-<div> 
-  <a href="https://www.youtube.com/slondotk" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/MPyTzWa" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:gustavobrandao31@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/brnd21" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+<img src="https://user-images.githubusercontent.com/56841881/225772041-79a9f27f-cb88-41ab-aaed-67eacfa0ad99.png">
+
+<h2>Linguagens utilizadas</h2>
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,mysql,mongodb,nodejs,jquery)](https://skillicons.dev)
+
+<h2>Me contate pelos canais abaixo!</h2>
+
+[![My Skills](https://skillicons.dev/icons?i=discord)](https://discord.gg/MPyTzWa)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/brnd21)
+
