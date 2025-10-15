@@ -14,4 +14,4 @@
 <h2>Me contate pelos canais abaixo!</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=discord)](https://discord.gg/d6NWS5CCDQ)
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/brnd21)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gusbra)
