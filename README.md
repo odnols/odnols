@@ -2,7 +2,7 @@
 
 - 🔭 Javascript and PHP systems sculptor, I build [bots](https://github.com/Alonses/Alonsal), [sites](https://github.com/odnols/inventario-mine), [api's](https://github.com/Alonses/Apisal) and whatever comes next!
 - 🎓 Graduated in Systems Analysis and Development from IFSP 🇧🇷!
-- 🐛 Manually automated and bug-creating since 1975
+- 🐛 Manually automated and bug-creator since 1975
 - 🈂 Mod translator in spare time
 - 🎶 Stuck in 80's music
 
